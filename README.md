@@ -1,4 +1,5 @@
-Class Project: Algebra and Calculus on Polynomials
+ICOM 4035 Class Project: 
+  Algebra and Calculus on Polynomials
 ===================================
 Objectives
   1.  Understand the design, implementation and use of the ArrayList container class.
