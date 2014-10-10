@@ -16,6 +16,7 @@ The following operation have been implemented:
   8. Degree
   9. Evaluate
   10. String Converter
+  11. 
 
  =======================================
  Class Project Specifications can be found here:  http://goo.gl/C91j8b
