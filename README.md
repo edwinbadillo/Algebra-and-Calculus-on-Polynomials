@@ -15,8 +15,7 @@ The following operation have been implemented:
   7. Definite integral
   8. Degree
   9. Evaluate
-  10. j
   10. String Converter
- 
+
  =======================================
  Class Project Specifications can be found here:  http://goo.gl/C91j8b
